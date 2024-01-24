@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.26a895f2.css",
+    "main.js": "/static/js/main.44d10913.js",
+    "static/js/787.7d6718ee.chunk.js": "/static/js/787.7d6718ee.chunk.js",
+    "static/media/grues-dans-chantier-construction.jpg": "/static/media/grues-dans-chantier-construction.4eb961327e80ff9b4e33.jpg",
+    "static/media/construction-site-1359136_1280.jpg": "/static/media/construction-site-1359136_1280.c3d546639c5472e8d796.jpg",
+    "static/media/AESCT.png": "/static/media/AESCT.bba653fde0409cb099ed.png",
+    "static/media/works-3480187_1920.jpg": "/static/media/works-3480187_1920.cbf2278b460fd34edff8.jpg",
+    "static/media/Yasaph logo.png": "/static/media/Yasaph logo.6d3a20ba96cb4c5cfaf1.png",
+    "static/media/Untitled design (4).png": "/static/media/Untitled design (4).ed9aa1b4fc3e059c3fc9.png",
+    "static/media/Untitled design (1).png": "/static/media/Untitled design (1).0ac23e9ee556bc6719b1.png",
+    "static/media/resto.jpg": "/static/media/resto.82c13cd51e62141906b7.jpg",
+    "static/media/ecole3.jpg": "/static/media/ecole3.b8e60cd64c920f0a6bd0.jpg",
+    "static/media/chantier.webp": "/static/media/chantier.e1f62512b92cdac246fd.webp",
+    "static/media/villa.jpg": "/static/media/villa.1cbdb4cb5bf37ddd845b.jpg",
+    "static/media/habitat1.jpg": "/static/media/habitat1.0c54061cb94c6489f3b9.jpg",
+    "static/media/habitat  12.jpg": "/static/media/habitat  12.a9f3eb001e485915189a.jpg",
+    "static/media/Cyan Modern Innovation Technology Logo.png": "/static/media/Cyan Modern Innovation Technology Logo.9a1acd359346ee6ed042.png",
+    "static/media/Asset 16@4x.png": "/static/media/Asset 16@4x.d4cae6fac8384c2dae04.png",
+    "static/media/WhatsApp Image 2023-11-30 à 00.04.38_140eb8c3.jpg": "/static/media/WhatsApp Image 2023-11-30 à 00.04.38_140eb8c3.5cc374af014ce5413f11.jpg",
+    "index.html": "/index.html",
+    "main.26a895f2.css.map": "/static/css/main.26a895f2.css.map",
+    "main.44d10913.js.map": "/static/js/main.44d10913.js.map",
+    "787.7d6718ee.chunk.js.map": "/static/js/787.7d6718ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26a895f2.css",
+    "static/js/main.44d10913.js"
+  ]
+}
