@@ -1,0 +1,230 @@
+
+
+.header{
+  position:sticky;
+  width: 100%;
+  top: 0;
+  display: block;
+  background-color: white;
+}
+
+#logo{
+  height: auto;
+  width: 120px;
+  padding-left: 50px;
+}
+
+.tete{
+  display : inline-flex ;
+  list-style: none;
+}
+
+a{
+  padding-left: 50px;
+  font-size: 17px;
+  text-decoration: none;
+}
+
+nav{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+ul{
+  padding-right: 50px;
+  padding-top: 80px;
+  padding-bottom: 0;
+}
+
+.container-Home{
+  background-image: url(../Image/chantier.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  width: 100%;
+  height: 585px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Centrage horizontal */
+  align-items: center;
+}
+
+
+
+
+.titre-Home {
+  font-size: 60px;
+  color: antiquewhite;
+  margin-top: 50%;
+  margin-left: 50%;
+  margin:0;
+}
+
+.p-Home{
+  color: antiquewhite;
+  margin-top: 65%;
+  margin-left: 50%;
+  margin:0;
+}
+
+.About-h1{
+  padding: 0;
+  margin: 0;
+  margin-left: 100px;
+  margin-top: 30px;
+  font-size: 60px;
+}
+
+.About-p{
+  font-size: 18px;
+  margin-right: 50px;
+  margin-left: 50px;
+  margin-top: 50px;
+  text-align: justify;
+}
+
+.AboutImage{
+  width: 100%;
+  height: 100%;
+  display: block;
+  padding: 0;
+
+}
+
+.h1-Service{
+  padding: 0;
+  margin: 0;
+  margin-left: 100px;
+  margin-top: 30px;
+  font-size: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
