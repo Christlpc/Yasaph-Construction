@@ -12,7 +12,7 @@ const About = () => {
         gap={0}
       >
         <GridItem colSpan={1}>
-          <div style={{ height: "100%"}}>
+          <div style={{ height: "100%" }}>
             <h1 className="About-h1">A propos</h1>
             <Box
               borderBottom="15px solid yellow"
@@ -21,7 +21,7 @@ const About = () => {
               ml={10}
               mb={4}
             ></Box>
-            <Text  className="About-p">
+            <Text className="About-p">
               {" "}
               Notre société, Yasaph Construction, est un pilier dans l'industrie
               du Bâtiment et des Travaux Publics depuis sa fondation en 2020.
@@ -35,7 +35,7 @@ const About = () => {
               la collaboration étroite avec nos clients, tout en respectant les
               normes de sécurité et d'environnement les plus strictes.
             </Text>
-            </div>
+          </div>
         </GridItem>
 
         <GridItem colSpan={1}>
@@ -45,7 +45,38 @@ const About = () => {
         </GridItem>
 
         <GridItem rowSpan={1} colSpan={2}>
-          <div style={{ backgroundColor: "Yellow", height: "100%" }}></div>
+          <div
+            style={{
+              backgroundColor: "Yellow",
+              height: "100%",
+              paddingLeft: "50",
+            }}
+          >
+            <Grid
+              h={100}
+              templateColumns="repeat(4, 1fr)"
+              paddingLeft={200}
+              paddingRight={200}
+              paddingTop={3}
+            >
+              <div className="AB">
+                <h1 className="h1AB">2019</h1>
+                <p>Année de création</p>
+              </div>
+              <div className="AB">
+                <h1 className="h1AB">54</h1>
+                <p>Projets</p>
+              </div>
+              <div className="AB">
+                <h1 className="h1AB">27</h1>
+                <p>Contrats</p>
+              </div>
+              <div className="AB">
+                <h1 className="h1AB">15</h1>
+                <p>Personnel</p>
+              </div>
+            </Grid>
+          </div>
         </GridItem>
       </Grid>
     </>

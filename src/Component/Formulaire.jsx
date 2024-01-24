@@ -59,7 +59,7 @@ const Formulaire = () => {
           Nous contacter
         </Heading>
         <Text fontSize={{ base: "lg", md: "xl" }} color="whiteAlpha.700">
-          Pour toute question, appelez-nous au : 01 23 45 67 89 ou envoyez-nous
+          Pour toute question, appelez-nous au : +243823078411 ou envoyez-nous
           un message ci-dessous. Nous vous remercierons pour votre confiance !
         </Text>
         <Box p={6} rounded="md" w="100%">

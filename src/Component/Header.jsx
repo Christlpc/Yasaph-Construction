@@ -6,21 +6,22 @@ function Header() {
     <div className="header">
       <nav>
         <img src={logo} alt="logo" id="logo"></img>
+
         <ul className="tete">
           <li>
-            <a href="#home">Home</a>
-          </li>
-            <li>
-              <a href="login">A propos</a>
-            </li>
-            <li>
-            <a href="#aboutus">Service</a>
+            <a href="#Home">Home</a>
           </li>
           <li>
-            <a href="login">Projets </a>
+            <a href="#About">A propos</a>
           </li>
           <li>
-            <a href="/login">Contacts</a>
+            <a href="#Service">Service</a>
+          </li>
+          <li>
+            <a href="#Projets">Projets </a>
+          </li>
+          <li>
+            <a href="#Contact">Contacts</a>
           </li>
         </ul>
       </nav>

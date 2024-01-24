@@ -9,6 +9,7 @@ import Contact from "./Component/Contact";
 
 function App() {
   return (
+    
     <>
       <Header />
       <Home id="Home" />
